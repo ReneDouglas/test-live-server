@@ -1,6 +1,7 @@
 
 const statesSelect = document.getElementById('states');
 const citiesTable = document.querySelector('#citiesTable tbody');
+const test = 0;
 
 document.addEventListener('DOMContentLoaded', function () {
 

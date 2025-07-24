@@ -1,3 +1,4 @@
+
 class StateDTO {
     constructor(id, name, sigla, RegiaoDTO) {
         this.id = id;
